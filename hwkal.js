@@ -13,7 +13,7 @@ global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Myuko👑 //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6281977815539'] // ubah aja pake nomor lu
+global.owner = ['919051079066'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
